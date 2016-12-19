@@ -1,7 +1,7 @@
 {
-  "name": "ch2pkg",
+  "name": "es6cvt",
   "version": "1.0.0",
-  "description": "Chapter 2 node packages",
+  "description": "ES6 Conversion Package Only",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
