@@ -7,9 +7,11 @@
 
 ## Get it up and Running
 - Read: Environment_Setup.txt -- You will not need to do everything in this file.
-- Once Node and Gulp are installed: in your Terminal (aka. Command line): 
--- Type > npm install
--- Then Type > gulp
+- Once Node and Gulp are installed: in your Terminal (aka. Command line): Type >
+```
+npm install
+gulp
+```
 - The ES6 should transpile to the dist folder.
 - Open the dist folder and click on the index.html file
 
